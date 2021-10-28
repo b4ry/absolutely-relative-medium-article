@@ -1,0 +1,28 @@
+html {
+  background-color: #F0E5CF;
+}
+
+body {
+  background-color: #F7F6F2;
+  margin-left: 100px;
+  height: 200px;
+  width: 500px;
+  border-radius: 30%;
+}
+
+.parent-element {
+  background-color: #C8C6C6;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.child-element, .child-element-initial-position {
+  background-color: #4B6587;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  position: absolute;
+  left: 0px;
+  border-radius: 100%;
+}
